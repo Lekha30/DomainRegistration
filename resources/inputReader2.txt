@@ -1,0 +1,3 @@
+apple.com.au, 1000
+dict.com, 800
+education.net, 300
